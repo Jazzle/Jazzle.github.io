@@ -25,6 +25,12 @@ body {
   color: $darkGray;
 }
 
+table, td {
+    	border-radius: 3px;
+    border-collapse: collapse;
+    padding: 15px;
+    text-align: left;
+}
 .container {
   margin: 0 auto;
   max-width: 740px;
