@@ -1,1 +1,3 @@
 TODAY we expanded on our use of repl.it and python with turtle and we focused on how we can create 3d letters, more specifically the letter T. By creating a T with a larger surface area, we could then focus on putting another T behind it and joining the dots. A challenge came when I had to try and figure out the side lengths but I used trial and error to eventually figure it out.
+
+<iframe height="400px" width="100%" src="https://repl.it/@JakeBarry/SecondhandSoreConsulting?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
